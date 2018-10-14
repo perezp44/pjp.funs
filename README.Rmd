@@ -14,36 +14,14 @@ knitr::opts_chunk$set(
 ```
 # pjp.funs
 
-The goal of pjp.funs is to ...
+The goal of pjp.funs is to make available (to me) a bunch of functions
 
 ## Installation
 
-You can install the released version of pjp.funs from [CRAN](https://CRAN.R-project.org) with:
+
+You can install the `pjp.funs` package from Github with:
 
 ``` r
-install.packages("pjp.funs")
+devtools::install_github("perezp44/pjp.funs", force = TRUE)
+library(pjp.funs)
 ```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-## basic example code
-```
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
