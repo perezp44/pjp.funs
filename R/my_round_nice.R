@@ -4,7 +4,8 @@
 #' @param digits  (digitos a mostrar, default=2)
 #' @export
 #' @examples
-#'  my_round_nice(c(-0.0002, 0.0002, 0.5, -0.5, -0.002), digits = 3)  should return c("0.000", "0.000", "0.500", "-0.500", "-0.002")
+#'  my_round_nice(c(-0.0002, 0.0002, 0.5, -0.5, -0.002), digits = 3)
+#'  should return c("0.000", "0.000", "0.500", "-0.500", "-0.002")
 
 
 my_round_nice <- function(..., digits = 2) {

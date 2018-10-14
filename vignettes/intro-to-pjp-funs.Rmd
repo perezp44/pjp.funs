@@ -25,6 +25,10 @@ Para chequear que funcionaba una función preferí crear un dataframe de prueba:
 
 De momento están las siguientes funciones:
 
-- `my_estadisticos_basicos()` : el input es un df y calcula para cada columna el nº de ceros, el nº de na's, la media etc.... y los devuelve como un df (me facilita la visualización rápida de los datos de un df)
+- `my_df_estadisticos_basicos()` : el input es un df y calcula para cada columna el nº de ceros, el nº de na's, la media etc.... y los devuelve como un df (me facilita la visualización rápida de los datos de un df)
+
+
+- `my_df_valores_unicos()` : el input es un df y calcula para cada columna los val9ores únicos. Te los devuelve en otro df
+
 
 - `my_round_nice()` : el input ha de ser un vector de números y hace nice el redondeo a los dígitos que quieras (gracias Karl Broman!!)

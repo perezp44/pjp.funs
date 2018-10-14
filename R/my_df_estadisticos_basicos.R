@@ -9,7 +9,7 @@
 #' my_estadisticos_basicos(cars)
 
 
-my_estadisticos_basicos <- function(data, print=FALSE) {
+my_df_estadisticos_basicos <- function(data, print=FALSE) {
   df_status=data.frame(
     q_zeros=sapply(data, function(x) sum(x==0,na.rm = TRUE)),
     p_zeros=round(100*sapply(data, function(x) sum(x==0,na.rm = TRUE))/nrow(data),2),
