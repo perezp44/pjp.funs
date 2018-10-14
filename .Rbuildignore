@@ -1,3 +1,4 @@
+^\./vignettes/info_vignettes\.txt$
 ^_script\.R$
 ^LICENSE\.md$
 ^README\.Rmd$
