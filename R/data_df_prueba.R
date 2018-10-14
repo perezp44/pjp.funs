@@ -4,7 +4,7 @@
 
 #' df de prueba
 #'
-#' tiene un factor, integer, double, text, logical y POSIXct
+#' Es sólo un df para probar mis funciones: tiene un factor, integer, double, text, logical y POSIXct
 #'
 #' @format A data frame with 20 rows y 6 variables:
 #' \itemize{

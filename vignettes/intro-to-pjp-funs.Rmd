@@ -24,3 +24,5 @@ Para chequear que funcionaba una función preferí crear un dataframe de prueba:
 ## Lista de funciones
 
 De momento están las siguientes funciones:
+
+- `my_estadisticos_basicos()` : el input es un df y calcula para cada columna el nº de zeros, el nº de na's, la media etc.... y los devuelve como un df (me facilita la visulaización rápida de los datos de un df)

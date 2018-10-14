@@ -4,7 +4,7 @@
 \name{pjp.funs-package}
 \alias{pjp.funs}
 \alias{pjp.funs-package}
-\title{pjp.funs: A collections of functions that are useful to me.}
+\title{pjp.funs: A collections of functions that are useful to me}
 \description{
 The package contains a group of functions that are useful to me.
 }
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Pedro J. Pérez \email{pedro.j.perez@uv.es}
+\strong{Maintainer}: Pedro J. Perez \email{pedro.j.perez@uv.es}
 
 }
 \keyword{internal}

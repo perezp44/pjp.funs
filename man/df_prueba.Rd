@@ -17,7 +17,7 @@
 df_prueba
 }
 \description{
-tiene un factor, integer, double, text, logical y POSIXct
+Es sólo un df para probar mis funciones: tiene un factor, integer, double, text, logical y POSIXct
 }
 \examples{
 \dontrun{

@@ -3,7 +3,7 @@ Title: A collections of functions that are useful to me
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Pedro J.",
-           family = "Pérez",
+           family = "Perez",
            role = c("aut", "cre"),
            email = "pedro.j.perez@uv.es")
 Maintainer: Pedro J. Perez <pjperez@uv.es>
