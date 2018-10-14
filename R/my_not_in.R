@@ -5,11 +5,11 @@
 #' @param y a vector
 #' @return Un nuevo vector con los elemntos de x q no estan en y
 #' @examples
-#' aa <- x %!in% y
-#' @export('%!in%')
+#' aa <- my_not_in(x,y)
+#' @export
 
 
-'%!in%' <- function(x,y) {
+my_not_in <- function(x,y) {
       # aa <- !('%in%'(x,y))  #- esta f. es not_in
       # xx <- x[aa]
       x[!x %in% y]
