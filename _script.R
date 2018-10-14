@@ -85,7 +85,7 @@ use_github_links()   #- añade links en la file DESCRIPTION
 use_build_ignore("./vignettes/info_vignettes.txt")
 
 
-
+#----------- FICHEROS de datos
 #- si quieres poner algun fichero con datos tienes que "crear" el fichero de datos y hacer:
 
 library(usethis)

@@ -1,6 +1,7 @@
 #' @title round numbers nicely
 #' @description Ya lo he dicho round numbers nicely
-#' This function rounds data in a nice way. See: ttps://twitter.com/hspter/status/314858331598626816
+#' This function rounds data in a nice way. See: https://twitter.com/hspter/status/314858331598626816
+#' Thanks Karl Broman!!
 #' @param digits  (digitos a mostrar, default=2)
 #' @export
 #' @examples
