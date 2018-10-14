@@ -1,14 +1,21 @@
 Package: pjp.funs
-Title: What the Package Does (One Line, Title Case)
+Title: A collections of functions that are useful to me.
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Pedro J.",
            family = "Pérez",
            role = c("aut", "cre"),
            email = "pedro.j.perez@uv.es")
-Description: What the package does (one paragraph).
+Maintainer: Pedro J. Perez <pjperez@uv.es>
+Description: The package contains a group of functions that are useful to me.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/perezp44/pjp.funs
+BugReports: https://github.com/perezp44/pjp.funs/issues
