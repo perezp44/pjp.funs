@@ -1,4 +1,6 @@
+^_script\.R$
 ^LICENSE\.md$
 ^README\.Rmd$
 ^pjp\.Rproj$
 ^\.Rproj\.user$
+^data-raw$
