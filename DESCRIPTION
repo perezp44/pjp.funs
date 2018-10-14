@@ -1,5 +1,5 @@
 Package: pjp.funs
-Title: A collections of functions that are useful to me.
+Title: A collections of functions that are useful to me
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Pedro J.",
