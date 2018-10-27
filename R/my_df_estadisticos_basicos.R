@@ -27,7 +27,7 @@ my_df_estadisticos_basicos <- function(data, print=FALSE) {
   df_status$variable=rownames(df_status)
   rownames(df_status)=NULL
 
-  df_status$NN <- nrow(df_status)
+  df_status$NN <- nrow(data)
   df_status$NN_ok <- df_status$NN - df_status$q_na
 
   ## Reordering columns
